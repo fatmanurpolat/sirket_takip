@@ -1,0 +1,9 @@
+a{
+    color: rgb(255, 255, 255);
+}
+#header{
+    font-size: 25px;
+}
+#loading{
+    display: "inline" ;
+}
